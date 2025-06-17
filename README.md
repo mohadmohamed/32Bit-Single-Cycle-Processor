@@ -1,10 +1,10 @@
-#32Bit-Single-Cycle-Processor:
+# 32Bit-Single-Cycle-Processor:
 
 
 Description: This 32 bit single cycle processor was designed using Logisim. In our design, the program counter is updated in every clock cycle and appropriate instruction is fetched for the instruction memory. The instruction is processed in control unit and the output for the given inputs is generated and if needed written in the data memory. Control unit and the ALU control are the key elements of our circuit as they help us to work on the instruction. 3 types of the instructions (R – I - J) are processed correctly thanks to control unit.
 You can also view our project report.
 
-#Setup:
+# Setup:
 
 You can refer to the following resource for detailed information about the setup. Reference: Processor Design Project
 
